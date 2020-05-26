@@ -12,8 +12,11 @@ public class Addprgm {
 	int a1=10;
 	int b1=19;
 	int c1;
-	c1=a1+b1;
+	c1=a1-b1;
 	System.out.println("sub value:  " + c1);
+	
+	System.out.println("may end");
+	System.out.println("manula testing class today");
 	
 	
 }
